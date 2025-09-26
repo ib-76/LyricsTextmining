@@ -26,5 +26,5 @@ Part4.2_TitlevsLyrics.ipynb – analyzes the relationship between song titles an
 <br><br>
 Note: Each cell in all Jupyter notebooks is documented with a Markdown cell describing its functionality, and all code is commented accordingly.
 In addition, in the end of  each notebook includes a Markdown cell with conclusions and final thoughts.<br> 
-ReadMWFirst.pff for more details of the project flow
+ReadMeFirst.pff for more details of the project flow
 
