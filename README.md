@@ -14,13 +14,13 @@ That CSV can be generated either from the Docker container or directly from Jupy
 The CSV should then be imported into an SQL database called TextMiningHa, which contains a single table named songs. A backup of this database is also included in the PyCharm project.<br><br>
 Note:All functions in the Jupyter notebooks pull their data from this database. If you want the notebooks to run on your local machine, you will need to update the string stored into ./Sql_DB\db_config.txt accordingly
 Just change the credential SERVER=IVAN_PC\SQLEXPRESS to match the SQL server on your local machine.<br>A backup of this SQLDb is also included incase in need to import it in your local machine.   
-<br><br>
+<br>
 Part2_PreProcessing.ipynb handles preprocessing tasks, including text cleaning and feature analysis. <br>
 <br>
 Part3.1_Clustering&Evaluation.ipynb – applies three clustering methods, then visualizes and evaluates the results for each clustering method.<br>
 Part3.3.1_SoftGridSearch.ipynb – performs grid search optimization for the soft clustering method.<br>
 Part3.3.2_HardGridSearch.ipynb – performs grid search optimization for the hard clustering method.<br>
-Part3.3.3_LDAGridSearch.ipynb – performs grid search optimization for the LDA  method.<br>
+Part3.3.3_LDAGridSearch.ipynb – performs grid search optimization for the LDA  method.<br><br>
 Part4.1_SimilaritySearch.ipynb – implements similarity search methods to compare and retrieve relevant songs.<br>
 Part4.2_TitlevsLyrics.ipynb – analyzes the relationship between song titles and their corresponding lyrics.<br>
 <br><br>
