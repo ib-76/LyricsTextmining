@@ -1,0 +1,129 @@
+name,genre,cleanGenre,kmeans_label
+Sweet Child O' Mine,"hard-rock, metal",hard-rock,0
+Dear Brother,honky-tonk,honky-tonk,0
+Timebomb,power-pop,power-pop,4
+Brown Girl in the Ring,disco,disco,0
+Cool For Cats,synth-pop,synth-pop,4
+I've Just Told Mama Goodbye,honky-tonk,honky-tonk,0
+Julia Dream,psych-rock,psych-rock,0
+Better Man,grunge,grunge,4
+On The Banks Of The Old Pontchartrain,honky-tonk,honky-tonk,2
+Breed,grunge,grunge,2
+Woman In Chains,synth-pop,synth-pop,2
+Ain't That A Kick In The Head,jazz,jazz,4
+Play Me,opera,opera,2
+She's Got a Way,piano,piano,4
+Innocent,grunge,grunge,4
+Dear John,honky-tonk,honky-tonk,4
+Africa,rock,rock,4
+Ain't No Sunshine,"funk, soul",funk,4
+This I Love,hard-rock,hard-rock,4
+All Summer Long,"alternative, metal",alternative,0
+Only In Dreams,power-pop,power-pop,4
+Whiskey In The Jar,"hard-rock, metal",hard-rock,2
+Something in Your Mouth,grunge,grunge,4
+Hallelujah I Love Her So,piano,piano,4
+They'll Never Take Her Love From Me,honky-tonk,honky-tonk,2
+Message To My Mother,honky-tonk,honky-tonk,2
+Be Careful Of Stones That You Throw,honky-tonk,honky-tonk,4
+Across the Line,grunge,grunge,3
+The Boys Are Back In Town,"blues, blues, hard-rock, hard-rock, metal, metal",blues,4
+Doreen,power-pop,power-pop,2
+Last Kiss,"alt-rock, grunge",alt-rock,2
+Tourniquet,industrial,industrial,2
+Black Magic Woman,blues,blues,0
+Steal My Girl,pop,pop,4
+Fell In Love With a Girl,"blues, garage, punk-rock, punk",garage,4
+Daddy Cool,disco,disco,0
+Rabbit In Your Headlights,trip-hop,trip-hop,4
+Bossa Nova Baby,rockabilly,rockabilly,4
+It's Not Cricket,power-pop,power-pop,4
+She Wants To Dance With Me,synth-pop,synth-pop,4
+Another Nail In My Heart,"power-pop, synth-pop",power-pop,4
+Funny Familiar Forgotten Feelings,british,british,4
+Chemical Smile,grunge,grunge,4
+Babooshka,piano,piano,4
+Ghost of Perdition,death-metal,death-metal,0
+To Love A Woman,disco,disco,4
+Up The Junction,"power-pop, synth-pop",power-pop,4
+My Babe,acoustic,acoustic,4
+All Shook Up,rockabilly,rockabilly,2
+Goodbye Girl,"power-pop, synth-pop",power-pop,4
+Hope,grunge,grunge,4
+Fake Plastic Trees,"alt-rock, alternative",alt-rock,4
+The Funeral of Hearts,goth,goth,0
+Surrender,power-pop,power-pop,4
+Move It On Over,honky-tonk,honky-tonk,0
+Julia,grunge,grunge,4
+Polly,grunge,grunge,4
+Automatic Flowers,grunge,grunge,4
+OK,industrial,industrial,4
+Little Wing,blues,blues,4
+From The Morning,british,british,4
+Christmas Cookies,"country, country, rock, rock",country,4
+Kings of Metal,"hard-rock, metal",hard-rock,0
+Lake Of Fire,grunge,grunge,4
+Whiskey In The Jar,"blues, hard-rock",blues,2
+First Year Blues,honky-tonk,honky-tonk,4
+There's Nothing As Sweet As My Baby,honky-tonk,honky-tonk,4
+Ma Baker,disco,disco,4
+Used To Love Her,hard-rock,hard-rock,2
+Any Way You Want It,hard-rock,hard-rock,4
+Eenie Meenie,"dance, hip-hop",hip-hop,0
+Heartbeat,synth-pop,synth-pop,2
+Help Me Understand,honky-tonk,honky-tonk,0
+Bahama Mama,disco,disco,0
+Heartbreak Station,hard-rock,hard-rock,0
+Killing Me Softly With Her Song,"j-pop, jazz",j-pop,4
+I Dreamed About Mama Last Night,honky-tonk,honky-tonk,4
+The Look,swedish,swedish,4
+Perfect Situation,power-pop,power-pop,2
+California Zephyr,honky-tonk,honky-tonk,4
+"Dance, Dance",emo,emo,1
+Out of Sync,synth-pop,synth-pop,4
+Dance In The Dark,dance,dance,4
+Just Waitin',honky-tonk,honky-tonk,0
+Pride and Joy,blues,blues,4
+Los,industrial,industrial,4
+Highway Star,psych-rock,psych-rock,2
+She,punk,punk,4
+Brother Louie,german,german,0
+Piccadilly,"power-pop, synth-pop",power-pop,4
+Whiskey Lullaby,bluegrass,bluegrass,4
+Dirty Dancer,latin,latin,4
+Slipping Through My Fingers,swedish,swedish,2
+Lady In Black,psych-rock,psych-rock,4
+Dani California,"alt-rock, alternative, funk, metal",funk,4
+Mother,psych-rock,psych-rock,0
+See Emily Play,psych-rock,psych-rock,0
+Devil's Whorehouse,hardcore,hardcore,0
+Green Is the Colour,psych-rock,psych-rock,0
+Out Of Tune,trip-hop,trip-hop,4
+The Moon Is a Harsh Mistress,opera,opera,0
+Knocking At Your Back Door,psych-rock,psych-rock,4
+Blister In The Sun,acoustic,acoustic,2
+Uptown Girl,piano,piano,4
+Catch The Rainbow,"blues, hard-rock",blues,4
+Feeling Single-Seeing Double,honky-tonk,honky-tonk,2
+Brothers of a Bottle,honky-tonk,honky-tonk,4
+Castles Made of Sand,"blues, psych-rock",blues,3
+Mary,synth-pop,synth-pop,4
+Love of Money,j-dance,j-dance,1
+Mr. Brightside,"alt-rock, alternative, rock",alt-rock,2
+Ding-Dong! The Witch Is Dead,"blues, jazz",jazz,4
+Pink Triangle,power-pop,power-pop,4
+All Right Now,"blues, british, psych-rock",british,4
+Hypnotize,metal,metal,0
+A Pillow of Winds,psych-rock,psych-rock,0
+"Hallelujah, I Love Her So","blues, piano",piano,4
+Devil Woman,rock-n-roll,rock-n-roll,4
+Jackie Cane,trip-hop,trip-hop,4
+Roll Over Beethoven,"rock-n-roll, rockabilly",rock-n-roll,2
+Shut Up and Dance,"alt-rock, alternative, rock",alt-rock,4
+Delilah,british,british,4
+Kentucky Homemade Christmas,country,country,0
+Days of the Week,grunge,grunge,4
+The Frail,industrial,industrial,4
+Night Moves,hard-rock,hard-rock,0
+Tube Snake Boogie,"blues, hard-rock",blues,4
+Don't Send Me No Angels,honky-tonk,honky-tonk,4

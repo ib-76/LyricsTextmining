@@ -1,0 +1,355 @@
+name,genre,cleanGenre,kmeans_label
+How Can You Mend A Broken Heart,disco,disco,0
+mOBSCENE,industrial,industrial,0
+Ancient Words,world-music,world-music,0
+Deep Six,industrial,industrial,0
+ROADS UNTRAVELED,"alternative, grunge, metal",alternative,0
+War Pigs,"alt-rock, alternative, funk, hard-rock, metal",funk,0
+Red Red Wine,reggae,reggae,0
+A Home In Heaven,honky-tonk,honky-tonk,0
+Long Road To Ruin,grunge,grunge,0
+"Baby, Let's Play House",rockabilly,rockabilly,0
+First Time,"hard-rock, hard-rock, hard-rock, hard-rock",hard-rock,0
+Symbolic,death-metal,death-metal,0
+Wind of Change,"german, hard-rock, metal",german,0
+Voglio restare cosi,opera,opera,0
+High Hopes,psych-rock,psych-rock,0
+Heal the World,soul,soul,0
+Lean on Me,soul,soul,0
+Spiders,metal,metal,0
+Plateau,grunge,grunge,0
+Any Old Sunday,"disco, funk, soul",funk,0
+Send Me An Angel,"german, hard-rock, metal",german,0
+Someday At Christmas,"funk, indie, soul",indie,0
+Frances Farmer Will Have Her Revenge On Seattle,grunge,grunge,1
+Everybody Have Fun Tonight,synth-pop,synth-pop,0
+Silent Night,"funk, funk, funk, soul, soul, soul",funk,0
+Into The Void,industrial,industrial,0
+Sowing The Seeds Of Love,synth-pop,synth-pop,0
+Goodbye Blue Sky,psych-rock,psych-rock,0
+Mad About You,"electronic, trip-hop",electronic,0
+Battery,"hard-rock, metal",hard-rock,0
+The Logical Song,piano,piano,0
+Fly Like An Eagle,psych-rock,psych-rock,0
+Final Masquerade,"alternative, grunge, metal",alternative,0
+Sex,industrial,industrial,0
+Everybody Wants To Rule The World,synth-pop,synth-pop,0
+Clone Your Lover,industrial,industrial,1
+With Tears In My Eyes,honky-tonk,honky-tonk,0
+The Fight Song,industrial,industrial,0
+Saturn,"funk, indie, soul",indie,0
+Hardwired,"hard-rock, metal",hard-rock,0
+Right To Know,synth-pop,synth-pop,0
+Gimme More,dance,dance,1
+Angels,goth,goth,1
+Six More Miles (To The Graveyard),honky-tonk,honky-tonk,0
+Shandi,"hard-rock, metal, rock",rock,0
+No More Tears,"hard-rock, metal",hard-rock,2
+Vincent,"folk, singer-songwriter, songwriter",folk,1
+Cold as Ice,hard-rock,hard-rock,1
+Our Last Summer,swedish,swedish,0
+To Cut a Long Story Short,synth-pop,synth-pop,0
+Summertime,psych-rock,psych-rock,0
+"Big, Blonde and Beautiful","j-pop, new-age",j-pop,0
+Winter Time,psych-rock,psych-rock,0
+Silver Bells,"funk, funk, funk, indie, indie, indie, soul, soul, soul",indie,0
+Aerials,"alternative, metal",alternative,0
+"Kiss Me Babe, It's Christmas Time","indie-pop, indie-pop, indie, indie, rock, rock",indie-pop,0
+Spoonman,"alt-rock, alternative, grunge, hard-rock, metal",alt-rock,0
+Across the Universe,piano,piano,0
+Jambalaya (On The Bayou),honky-tonk,honky-tonk,0
+Have Yourself A Merry Little Christmas,jazz,jazz,0
+Scenes from an Italian Restaurant,piano,piano,1
+Echoes,psych-rock,psych-rock,0
+After All These Years,hard-rock,hard-rock,0
+Vienna,synth-pop,synth-pop,0
+Proud Mary,disco,disco,0
+Your Cheatin' Heart,honky-tonk,honky-tonk,1
+"Oh, Pretty Woman","r-n-b, rock-n-roll, rockabilly",r-n-b,0
+One Little Christmas Tree,"funk, funk, funk, funk, funk, funk, funk, funk, funk, funk, funk, funk, funk, funk, indie, indie, indie, indie, indie, indie, indie, indie, indie, indie, indie, soul, soul, soul, soul, soul, soul, soul, soul, soul, soul, soul",indie,0
+We're In This Together,industrial,industrial,0
+Need Your Love,power-pop,power-pop,1
+The Grand Conjuration,death-metal,death-metal,0
+Honky Tonkin',honky-tonk,honky-tonk,0
+The Pot,"alt-rock, metal",alt-rock,1
+Astronomy Domine,psych-rock,psych-rock,0
+O Little Town of Bethlehem,jazz,jazz,0
+Perfect Day,psych-rock,psych-rock,0
+Death Whispered a Lullaby,death-metal,death-metal,0
+Forever Young,synth-pop,synth-pop,0
+Route 66,"blues, rock-n-roll, rockabilly",rock-n-roll,0
+Things Can Only Get Better,synth-pop,synth-pop,0
+Edge Of A Revolution,grunge,grunge,0
+A Whole New World,show-tunes,show-tunes,0
+Mark the Graves,grunge,grunge,0
+Whatever,grunge,grunge,1
+Painter Man,disco,disco,0
+93 Million Miles,"acoustic, rock",acoustic,1
+Dive,grunge,grunge,0
+Wastelands,grunge,grunge,0
+School,grunge,grunge,1
+Angels We Have Heard On High,opera,opera,0
+Heads Will Roll,"punk-rock, punk",punk-rock,0
+Love Never Felt So Good,soul,soul,0
+O Come All Ye Faithful,"alt-rock, alt-rock, alt-rock, alternative, alternative, alternative, power-pop, power-pop, power-pop, rock, rock",power-pop,0
+Dig,grunge,grunge,0
+Lie to Purify,death-metal,death-metal,1
+Dream A Little Dream Of Me,"blues, jazz",jazz,0
+Silence Must Be Heard,new-age,new-age,0
+B.Y.O.B.,"alternative, metal",alternative,0
+Take These Chains From My Heart,honky-tonk,honky-tonk,0
+Never Say Goodbye,metal,metal,0
+Ball and Biscuit,garage,garage,2
+In 100 Years,synth-pop,synth-pop,0
+Under a Glass Moon,"classical, metal",classical,0
+Burden In My Hand,grunge,grunge,0
+World Painted Blood,death-metal,death-metal,0
+Coffee Time,"jazz, soul",soul,0
+Love Will Tear Us Apart,"alt-rock, alternative, alternative, punk-rock, punk",punk-rock,0
+Deliverance,death-metal,death-metal,0
+Send Me an Angel,industrial,industrial,0
+Hell Or High Water,"hard-rock, metal, rock",rock,1
+Beautiful Saviour,world-music,world-music,0
+Day Is Done,british,british,0
+Now or Never,opera,opera,0
+Sometimes,trip-hop,trip-hop,0
+Dance Hall Days,synth-pop,synth-pop,0
+Watching The Wildlife,synth-pop,synth-pop,0
+Mutilation,death-metal,death-metal,0
+Crazy On You,hard-rock,hard-rock,0
+Elegantly Wasted,"funk, rock",funk,0
+All Is Well,world-music,world-music,0
+The Child In Us,new-age,new-age,0
+Live And Let Die,"hard-rock, metal",hard-rock,1
+The Drapery Falls,death-metal,death-metal,0
+Chop Suey!,"alternative, metal",alternative,0
+Geronimo's Cadillac,synth-pop,synth-pop,0
+Morphing Thru Time,new-age,new-age,0
+Nightflight to Venus,disco,disco,0
+Dream On,"hard-rock, rock",rock,0
+What Child Is This?,opera,opera,0
+Vicinity Of Obscenity,metal,metal,0
+Turn Around,new-age,new-age,0
+Brain Damage,psych-rock,psych-rock,0
+Lack of Comprehension,death-metal,death-metal,0
+Warriors,rock,rock,1
+Good Time,"indie-pop, indie, rock",indie-pop,0
+Autumn In New York,"blues, jazz",jazz,0
+Run Rudolph Run,"blues, blues, r-n-b, rock-n-roll, rockabilly",r-n-b,0
+Believe,opera,opera,0
+Saturday Sun,british,british,0
+Return To Innocence,new-age,new-age,0
+Forgotten,"grunge, metal",metal,0
+Scream Bloody Gore,death-metal,death-metal,0
+L-O-V-E,"jazz, jazz, jazz",jazz,1
+Black Magic,death-metal,death-metal,0
+Windowpane,"death-metal, metal, swedish",swedish,0
+We Will Rock You,"grunge, metal",metal,1
+Starry Eyed,"dance, edm, electro, indie-pop, indie",edm,0
+Crying,rockabilly,rockabilly,0
+Civil War,"hard-rock, metal",hard-rock,0
+Crystal Mountain,death-metal,death-metal,0
+Holiday,punk,punk,0
+The Devil's Orchard,"death-metal, metal, swedish",swedish,0
+This World,trip-hop,trip-hop,0
+Barracuda,hard-rock,hard-rock,1
+Harvest Moon,"singer-songwriter, songwriter",singer-songwriter,0
+La vie en rose,jazz,jazz,0
+Spirit Crusher,death-metal,death-metal,0
+The Gunner's Dream,psych-rock,psych-rock,0
+Violent Pornography,metal,metal,0
+Warm Sound,trip-hop,trip-hop,0
+Angel,hard-rock,hard-rock,0
+Hey Jude,"rock-n-roll, rockabilly",rock-n-roll,0
+Seasons In The Abyss,death-metal,death-metal,0
+Live to Rise,grunge,grunge,0
+Somewhere,opera,opera,0
+The Phoenix,emo,emo,0
+Weightless,power-pop,power-pop,0
+Back In My Baby's Arms Again,honky-tonk,honky-tonk,0
+Give A Little Bit,"piano, rock",piano,0
+Oh Love,punk,punk,0
+There's No Room In My Heart For The Blues,honky-tonk,honky-tonk,0
+I Just Called To Say I Love You,"funk, indie, soul",indie,0
+Wine Pon Me,j-dance,j-dance,0
+Denial of Life,death-metal,death-metal,0
+Revelation Song,world-music,world-music,0
+Relax,synth-pop,synth-pop,1
+Limelight,hard-rock,hard-rock,0
+Gotta Go Home,disco,disco,0
+"Honey, Honey",swedish,swedish,0
+Stars Fell On Alabama,"blues, jazz",jazz,0
+Let There Be Peace On Earth,"country, country, country, country",country,0
+Dead Skin Mask,death-metal,death-metal,0
+My Crew,j-dance,j-dance,0
+Silver Bells,"j-pop, jazz",j-pop,0
+Atmosphere,"alt-rock, alternative, punk-rock, punk",punk-rock,0
+Ever Dream,"goth, opera",goth,0
+Brown Eyed Girl,"folk, singer-songwriter, songwriter",folk,0
+Lost for Words,psych-rock,psych-rock,2
+Little Christmas Tree,soul,soul,2
+Creatures Of The Night,"hard-rock, metal, rock",rock,0
+Stardust,jazz,jazz,0
+Stop,psych-rock,psych-rock,0
+Wheels,grunge,grunge,0
+In The Waiting Line,trip-hop,trip-hop,0
+Turn Me On,"j-pop, jazz",j-pop,0
+Wasted Sunsets,psych-rock,psych-rock,0
+Know Your Enemy,punk,punk,0
+Blessed Be Your Name,world-music,world-music,0
+Symphony Of Destruction,"alt-rock, alt-rock, alternative, alternative, hard-rock, hard-rock, metal, metal, rock, rock",alt-rock,0
+Summertime,jazz,jazz,0
+21 Guns,punk,punk,1
+Above All,world-music,world-music,0
+On the Turning Away,psych-rock,psych-rock,0
+War Ensemble,death-metal,death-metal,0
+Down By The Bay,children,children,0
+Passion And The Opera,"goth, opera",goth,0
+Present Tense,grunge,grunge,1
+Raining Blood,"death-metal, metal",death-metal,0
+Suburbia,synth-pop,synth-pop,0
+Black Hole Sun,"alt-rock, alternative, grunge, hard-rock, metal",alt-rock,0
+Country Christmas,country,country,0
+Californication,"alt-rock, alternative, funk, metal",funk,0
+Too Bad,grunge,grunge,0
+Black Metal,black-metal,black-metal,0
+O Christmas Tree,"country, country, country, rock, rock, rock",country,0
+Right In Two,metal,metal,0
+New Faith,death-metal,death-metal,0
+Halloween,"hard-rock, hard-rock, hard-rock, hardcore, hardcore, hardcore, j-rock, j-rock, j-rock, punk-rock, punk-rock, punk-rock, punk, punk, punk",j-rock,0
+Heartbreak Hotel,"rock-n-roll, rockabilly",rock-n-roll,0
+Personal Jesus,industrial,industrial,1
+The Way You Are,synth-pop,synth-pop,0
+Fort Lauderdale Chamber of Commerce,rockabilly,rockabilly,0
+Satellite,grunge,grunge,0
+Deck The Halls,"jazz, jazz, jazz, jazz, jazz, jazz, jazz, jazz, jazz, jazz, jazz, jazz, jazz",jazz,0
+Blue Suede Shoes,"rock-n-roll, rockabilly",rock-n-roll,0
+Whip It,synth-pop,synth-pop,0
+Legalize It,dub,dub,0
+The Universal,"alt-rock, alternative, rock",alt-rock,0
+Annie's Song,"country, folk, singer-songwriter, songwriter",folk,0
+Panis Angelicus,opera,opera,0
+Rhythm of Love,hard-rock,hard-rock,0
+Christmas Eve,pop,pop,0
+Let There Be More Light,psych-rock,psych-rock,0
+Turn To Stone,acoustic,acoustic,0
+Revue,power-pop,power-pop,1
+Ain't It The Life,grunge,grunge,0
+Burden,death-metal,death-metal,0
+King for a Day,"alt-rock, alternative, funk, hard-rock, metal",funk,0
+Last Ride of the Day,"goth, opera",goth,0
+Amaranth,"goth, opera",goth,0
+Angel Of Death,"death-metal, hard-rock, metal",death-metal,0
+Dream A Little Dream Of Me,"blues, jazz",jazz,0
+Bleak,death-metal,death-metal,0
+Another Day,"classical, metal",classical,0
+The Final Countdown,"hard-rock, metal, rock, swedish",swedish,0
+Blue Skies,"blues, jazz",jazz,0
+Have Yourself a Merry Little Christmas,"blues, jazz",jazz,0
+Young Volcanoes,emo,emo,0
+Iridescent,"alternative, grunge, metal",alternative,1
+Baby Beluga,children,children,0
+IN MY REMAINS,"alternative, grunge, metal",alternative,0
+Magenta,trip-hop,trip-hop,0
+Rivers of Babylon,disco,disco,0
+Road Trippin',metal,metal,0
+Fly Away From Here,hard-rock,hard-rock,0
+The Baying of the Hounds,death-metal,death-metal,0
+Daddy Come Home,honky-tonk,honky-tonk,0
+Head Like A Hole,industrial,industrial,0
+Coma White,industrial,industrial,0
+Burn,"edm, electro, indie-pop, indie",edm,0
+Wind Of Change,"german, hard-rock, metal, rock",german,0
+A Great Day for Freedom,psych-rock,psych-rock,0
+Wait For The Light To Shine,honky-tonk,honky-tonk,0
+Fat Old Sun,psych-rock,psych-rock,0
+Hollow Talk,opera,opera,0
+Paranoid Android,alt-rock,alt-rock,0
+You Never Can Tell,"rock-n-roll, rockabilly",rock-n-roll,0
+SOS,swedish,swedish,0
+Let's Turn Back The Years,honky-tonk,honky-tonk,0
+Touchness,new-age,new-age,0
+Dancing Queen,swedish,swedish,0
+Man in the Box,"alt-rock, grunge, hard-rock, metal",alt-rock,0
+Music And Me,soul,soul,0
+The Memory Remains,hard-rock,hard-rock,0
+Jesus Doesn't Want Me For A Sunbeam,grunge,grunge,0
+Two Suns in the Sunset,psych-rock,psych-rock,0
+A Little Less Conversation,"rock-n-roll, rockabilly",rock-n-roll,0
+We Die Young,grunge,grunge,1
+The Spirit Of Radio,"hard-rock, metal",hard-rock,0
+Au Revoir,piano,piano,0
+It Came Upon a Midnight Clear,opera,opera,0
+Autumn Leaves,pop,pop,0
+Clarks,j-dance,j-dance,1
+Silent Warrior,new-age,new-age,0
+To Rid the Disease,death-metal,death-metal,0
+SKIN TO BONE,"grunge, metal",metal,0
+Friends,world-music,world-music,0
+Islands in the Stream,country,country,1
+Killing Strangers,"industrial, metal",industrial,0
+Men With Broken Hearts,honky-tonk,honky-tonk,0
+Wish You Were Here,psych-rock,psych-rock,0
+Getting Ready For Christmas Day,"folk, indie, rock, singer-songwriter, songwriter",folk,0
+Strange Fruit,"blues, jazz, soul",soul,0
+A House Without Love,honky-tonk,honky-tonk,0
+Book Of Memories,honky-tonk,honky-tonk,0
+The Satisfied Mind,synth-pop,synth-pop,0
+Halleluja,industrial,industrial,0
+Smoke on the Water,"blues, hard-rock, psych-rock",blues,0
+Wollt ihr das Bett in Flammen sehen,industrial,industrial,0
+End Of All Hope,"goth, opera",goth,0
+Last Days on Earth,synth-pop,synth-pop,0
+Have Yourself A Merry Little Christmas,"blues, jazz",jazz,0
+If Today Was Your Last Day,"grunge, metal",metal,1
+Sing,r-n-b,r-n-b,0
+Shadow of the Day,"alternative, grunge, metal",alternative,0
+Have Yourself A Merry Little Christmas,"pop, pop, pop, pop, pop, pop, pop, pop, pop, pop, pop, pop, pop, pop",pop,0
+Cryin' Time,honky-tonk,honky-tonk,0
+Jingle Bell Rock,"country, rock",country,0
+Road,british,british,0
+Rivers Of Babylon,disco,disco,0
+Say It Ain't So,power-pop,power-pop,2
+Belfast,disco,disco,0
+The Thin Ice,psych-rock,psych-rock,1
+West End Girls,synth-pop,synth-pop,0
+South Of Heaven,"death-metal, hard-rock, metal",death-metal,0
+In the Arms of Rain,goth,goth,0
+Futures,trip-hop,trip-hop,1
+Angelfuck,"hardcore, j-rock",j-rock,1
+One Rainy Wish,psych-rock,psych-rock,0
+Never Once,world-music,world-music,0
+I Guess That's Why They Call It The Blues,piano,piano,2
+Mess Around,"blues, piano, soul",piano,0
+Bulls On Parade,"alt-rock, metal",alt-rock,0
+"Andante, Andante",swedish,swedish,0
+Musclebound,synth-pop,synth-pop,0
+Don't Leave Me Now,psych-rock,psych-rock,0
+Wishmaster,goth,goth,0
+Ships In The Sky,"blues, blues, blues, british, british, british, psych-rock, psych-rock, psych-rock",british,0
+Amour,industrial,industrial,0
+Dancing On The Ceiling,"disco, rock",disco,0
+This Kiss,country,country,0
+When The Book Of Life Is Read,honky-tonk,honky-tonk,0
+Dirge for November,death-metal,death-metal,0
+Soldier of Love,grunge,grunge,0
+No Surprises,"alt-rock, alternative, indie, rock",indie,0
+A Winter Romance,jazz,jazz,0
+Future Days,grunge,grunge,2
+The Catalyst,"alternative, grunge, metal",alternative,0
+Three Steps To Heaven,rockabilly,rockabilly,0
+Break It Down Again,synth-pop,synth-pop,0
+When We Stand Together,"grunge, metal",metal,0
+Bohemian Rhapsody,rock,rock,0
+Club Tropicana,"disco, synth-pop",disco,0
+Skeletons Of Society,death-metal,death-metal,0
+Victims,"disco, synth-pop",disco,1
+Collide,"alternative, metal",alternative,0
+The Day That Never Comes,"hard-rock, metal",hard-rock,0
+Mistletoe and Wine,"r-n-b, r-n-b, r-n-b, r-n-b, r-n-b, r-n-b, rock-n-roll, rock-n-roll, rock-n-roll, rock-n-roll, rock-n-roll, rock-n-roll",r-n-b,0
+Blue Christmas,"rock-n-roll, rockabilly",rock-n-roll,0
+Let It Die,grunge,grunge,0
+Toxicity,"alternative, metal",alternative,0
+Faithfully,hard-rock,hard-rock,0
+We're Getting Closer To The Grave Each Day,honky-tonk,honky-tonk,0
+Guerrilla Radio,metal,metal,0

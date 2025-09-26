@@ -1,0 +1,205 @@
+name,genre,cleanGenre,kmeans_label
+In The Army Now,"blues, british, hard-rock",british,1
+Bleed The Freak,grunge,grunge,1
+Cocaine,blues,blues,1
+Moonshine,"dance, pop",dance,1
+Heaven's On Fire,hard-rock,hard-rock,1
+Angel,disco,disco,1
+I'm Sorry For You My Friend,honky-tonk,honky-tonk,1
+Foxey Lady,psych-rock,psych-rock,1
+Master Of Puppets,"hard-rock, metal, rock",rock,1
+Vienna,piano,piano,1
+Epic,"alt-rock, alternative, funk, hard-rock, metal",funk,1
+The Hand That Feeds,industrial,industrial,1
+Candle In The Wind,piano,piano,1
+Centuries,"emo, rock",emo,1
+Don't Leave Without Taking Your Silver,honky-tonk,honky-tonk,1
+Won't You Sometimes Think Of Me,honky-tonk,honky-tonk,1
+Can Opener,grunge,grunge,1
+Mi Remember,"dancehall, j-dance",dancehall,1
+Time After Time,disco,disco,1
+All You Need Is Love,"british, psych-rock",british,1
+Shoot The Moon,"j-pop, j-pop, jazz",j-pop,1
+The Hardest Button to Button,"blues, garage",garage,1
+Since You Been Gone,"blues, hard-rock",blues,1
+Heathens,rock,rock,1
+Changing Colours,opera,opera,1
+Simple Man,"blues, country, hard-rock",country,1
+Oh L'Amour,synth-pop,synth-pop,1
+Ooh La La,psych-rock,psych-rock,1
+Do You Know? (The Ping Pong Song),latin,latin,1
+Hysteria,hard-rock,hard-rock,1
+No One Is To Blame,synth-pop,synth-pop,1
+Lady,hard-rock,hard-rock,1
+Master of Puppets,"hard-rock, metal",hard-rock,1
+Together Forever,"disco, synth-pop",disco,1
+Calling You,honky-tonk,honky-tonk,1
+A Little Respect,synth-pop,synth-pop,1
+Reelin' In The Years,"country, country, folk, folk, folk, psych-rock, psych-rock, rock, rock",folk,1
+High and Dry,"alt-rock, alternative",alt-rock,1
+Dogs,psych-rock,psych-rock,1
+Mind Your Own Business,honky-tonk,honky-tonk,1
+Gravity Of Love,new-age,new-age,1
+Sunshine,"dance, edm, pop",edm,1
+More Than Words,"funk, hard-rock, metal",funk,1
+Don't Lose Your Head,"funk, rock",funk,1
+You And I,acoustic,acoustic,1
+The Nearness Of You,"j-pop, jazz",j-pop,1
+Did You Ever?,honky-tonk,honky-tonk,1
+Only the Good Die Young,piano,piano,1
+Summer '68,psych-rock,psych-rock,1
+Sunny,disco,disco,1
+Only When You Leave,synth-pop,synth-pop,1
+Hall of Fame,rock,rock,1
+Heart,synth-pop,synth-pop,1
+Future Looks Good,piano,piano,1
+Haunted,"alternative, metal",alternative,1
+Hit the Road Jack,"blues, jazz, piano",piano,1
+A Place for My Head,grunge,grunge,1
+Baby Can I Hold You,"folk, singer-songwriter, songwriter",folk,1
+Apple Blossom,garage,garage,1
+True Colors,disco,disco,1
+Fearless,psych-rock,psych-rock,1
+Chiquitita,swedish,swedish,1
+You Could Be Mine,"hard-rock, metal",hard-rock,1
+Not Alone,"grunge, metal",metal,1
+A LIGHT THAT NEVER COMES,"grunge, metal",metal,1
+My Life,piano,piano,1
+Are You Lonesome Tonight,"rock-n-roll, rockabilly",rock-n-roll,1
+See You Again,"dance, hip-hop",hip-hop,1
+Trouble No More,"blues, country, folk, hard-rock, j-rock, singer-songwriter, songwriter",j-rock,1
+Here I Am To Worship,world-music,world-music,1
+Robot Boy,grunge,grunge,1
+You Can Win If You Want,synth-pop,synth-pop,1
+Welcome to the Machine,psych-rock,psych-rock,1
+What Makes You Beautiful,pop,pop,1
+Half As Much,honky-tonk,honky-tonk,1
+The Final Cut,psych-rock,psych-rock,1
+Let Her Go,folk,folk,1
+Fever,rockabilly,rockabilly,1
+Never Gonna Give You Up,"disco, synth-pop",disco,1
+Do You Wanna,synth-pop,synth-pop,1
+Just the Way You Are,dance,dance,1
+Antichrist Superstar,industrial,industrial,1
+The Little Things Give You Away,grunge,grunge,1
+Take It On the Run,hard-rock,hard-rock,1
+Killing In The Name,"alt-rock, alternative, funk, metal",funk,1
+Are You In?,grunge,grunge,1
+Gold,synth-pop,synth-pop,1
+All I Wanna Do Is Make Love To You,hard-rock,hard-rock,3
+November Rain,"hard-rock, metal, rock",rock,1
+Horror Business,"hard-rock, hardcore, j-rock, punk-rock, punk",j-rock,1
+Karma Chameleon,"disco, synth-pop",disco,1
+Five More Hours,progressive-house,progressive-house,1
+Iron,goth,goth,1
+POWERLESS,"alternative, grunge, metal",alternative,1
+Mr. Crowley,"hard-rock, metal",hard-rock,1
+No Stopping Us,acoustic,acoustic,1
+Which Will,british,british,1
+Let's Make Love,country,country,1
+I Could Never Be Ashamed Of You,honky-tonk,honky-tonk,1
+I Wish I Had A Nickel,honky-tonk,honky-tonk,1
+Can't Take My Eyes off You,disco,disco,1
+You Are Not Alone,synth-pop,synth-pop,1
+Dream On,"blues, hard-rock",blues,1
+Sappy,grunge,grunge,1
+Aurora,grunge,grunge,1
+If You Leave Me Now,"singer-songwriter, songwriter",singer-songwriter,1
+Yellow,pop,pop,1
+Have You Ever Needed Someone So Bad,hard-rock,hard-rock,1
+Shout,synth-pop,synth-pop,1
+I'm Still Standing,piano,piano,1
+A Demon's Fate,goth,goth,3
+Is That Love?,power-pop,power-pop,1
+Brand New Second Hand,dub,dub,1
+I Can't Make You Love Me,blues,blues,1
+Why Should I Cry,honky-tonk,honky-tonk,1
+The Heart Of Worship,"alt-rock, alternative, world-music",world-music,1
+Hero,latin,latin,1
+When We Were Young,"british, soul",british,1
+Does Your Mother Know,swedish,swedish,1
+Not Enough,grunge,grunge,1
+Blue Side of Lonesome,honky-tonk,honky-tonk,1
+Closer,"electronic, industrial, metal",electronic,1
+A Line in the Sand,grunge,grunge,1
+Piece of My Heart,psych-rock,psych-rock,1
+Hey You,psych-rock,psych-rock,1
+Fade Into You,"alt-rock, alternative",alt-rock,1
+In Pieces,"grunge, metal",metal,1
+Photograph,pop,pop,1
+I Belong To You,rock,rock,1
+With a Little Love,synth-pop,synth-pop,1
+What Do You Want from Me,psych-rock,psych-rock,1
+Hero,progressive-house,progressive-house,4
+Pigs (Three Different Ones),psych-rock,psych-rock,1
+Heaven Beside You,grunge,grunge,1
+Crosstown Traffic,"blues, psych-rock",blues,1
+Solo,"edm, funk, house",house,1
+To Where You Are,opera,opera,1
+Animals,pop,pop,1
+Crosses,trip-hop,trip-hop,1
+You're Only Human (Second Wind),piano,piano,1
+Freezing Proces,grunge,grunge,1
+Send My Love (To Your New Lover),british,british,1
+From out of Nowhere,"hard-rock, metal",hard-rock,1
+Firework,dance,dance,1
+Wretches and Kings,grunge,grunge,1
+Nobody's Listening,"grunge, metal",metal,1
+Lay Down Sally,blues,blues,1
+E.T.,"dance, dance",dance,1
+Everybody's Fool,metal,metal,1
+Somebody's Me,latin,latin,1
+You Broke Your Own Heart,honky-tonk,honky-tonk,1
+Lullaby,"grunge, metal",metal,1
+Why Don't You Love Me,honky-tonk,honky-tonk,1
+One of My Turns,psych-rock,psych-rock,1
+Say (All I Need),piano,piano,1
+Are You Lonesome Tonight?,"rock-n-roll, rockabilly",rock-n-roll,1
+Hey Jude,"british, psych-rock",british,1
+How Deep Is Your Love,disco,disco,1
+Who Needs Shelter,acoustic,acoustic,1
+Oh! Carol,rockabilly,rockabilly,1
+The Philosopher,death-metal,death-metal,1
+Big Yellow Taxi,"alt-rock, alternative, rock",alt-rock,1
+Welcome To The Jungle,hard-rock,hard-rock,1
+Crazy Heart,honky-tonk,honky-tonk,1
+When You Were Young,alt-rock,alt-rock,3
+Love Is a Stranger,synth-pop,synth-pop,1
+Jigsaw Falling Into Place,alt-rock,alt-rock,1
+Escape,latin,latin,1
+Dark Horse,dance,dance,1
+Holly Jolly Christmas,"country, country",country,1
+The Only One,disco,disco,1
+Last Night on Earth,punk,punk,1
+Drain You,grunge,grunge,1
+Somersault,trip-hop,trip-hop,1
+Love Me Like You Do,"dance, edm, electro, indie-pop, indie, pop",edm,1
+What Are You Waiting For?,grunge,grunge,1
+Open Arms,hard-rock,hard-rock,1
+I Will Be Here For You,world-music,world-music,1
+Rumour Has It,"british, soul",british,4
+Any Major Dude Will Tell You,psych-rock,psych-rock,1
+Bella Luna,"acoustic, rock",acoustic,1
+Like We Never Loved at All,country,country,1
+Blackout,grunge,grunge,1
+Love Will Keep Us Alive,"country, folk, singer-songwriter, songwriter",folk,1
+Cry Baby,psych-rock,psych-rock,1
+9 to 5,country,country,1
+Pressure,piano,piano,1
+Sail Away,blues,blues,1
+Rikki Don't Lose That Number,psych-rock,psych-rock,1
+Eclipse,psych-rock,psych-rock,1
+Poles Apart,psych-rock,psych-rock,1
+Rolling in the Deep,"british, soul",british,1
+Deep Dark Truthful Mirror,power-pop,power-pop,1
+Child in Time,psych-rock,psych-rock,1
+There'll Be No Teardrops Tonight,honky-tonk,honky-tonk,1
+Nude,alt-rock,alt-rock,1
+Do You Really Want To Hurt Me,synth-pop,synth-pop,1
+2 Wicky,trip-hop,trip-hop,1
+"Cold, Cold Heart",honky-tonk,honky-tonk,1
+Right Where It Belongs,industrial,industrial,1
+Don't Fall In Love With A Dreamer,"country, country, country, country",country,1
+In These Arms,metal,metal,1
+Too Official,grunge,grunge,1
+Rock And Roll All Nite,hard-rock,hard-rock,1

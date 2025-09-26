@@ -1,0 +1,769 @@
+name,genre,cleanGenre,kmeans_label
+The Pretender,"alt-rock, alternative, grunge, metal",alt-rock,1
+Deacon Blues,psych-rock,psych-rock,2
+Hope Leaves,death-metal,death-metal,0
+You Know You're Right,grunge,grunge,2
+Love Story,pop,pop,2
+Pennyroyal Tea,grunge,grunge,2
+Best Guitar Picker,honky-tonk,honky-tonk,2
+Hello,"british, soul",british,2
+Eversleeping,"goth, opera",goth,2
+Merry Christmas Darling,"rock, rock, rock, rock, rock",rock,0
+Stay with Me,psych-rock,psych-rock,1
+Discipline,industrial,industrial,2
+Wish You Were Here,"grunge, metal",metal,2
+The Good Life,power-pop,power-pop,2
+Comfortably Numb,rock,rock,2
+Dead Man's Party,"synth-pop, synth-pop, synth-pop, synth-pop, synth-pop",synth-pop,0
+Fool for Your Loving,"blues, blues, british, british, hard-rock, hard-rock, metal, metal",british,2
+I Started A Joke,disco,disco,2
+Vanilla Twilight,indie-pop,indie-pop,2
+Calendar Girl,rockabilly,rockabilly,0
+(I'm) Going Home,honky-tonk,honky-tonk,2
+It Lives,death-metal,death-metal,0
+Highway Don't Care,country,country,1
+Move Away,synth-pop,synth-pop,2
+Drift Away,country,country,2
+Lay Down Beside Me,bluegrass,bluegrass,2
+Take A Chance On Me,swedish,swedish,1
+Baby It's Cold Outside,"blues, blues, jazz, jazz",jazz,2
+I Will Survive,disco,disco,2
+Sunrise,"j-pop, jazz",j-pop,2
+All I Ask,"british, soul",british,2
+As Long As I Live,honky-tonk,honky-tonk,2
+Dumb,grunge,grunge,2
+Leave Out All The Rest,grunge,grunge,2
+Can't Stop Lovin' You,"hard-rock, metal",hard-rock,1
+Payphone,pop,pop,1
+Free Bird,"blues, hard-rock",blues,2
+Check My Brain,grunge,grunge,0
+Sometimes I Feel Like Screaming,psych-rock,psych-rock,2
+Love Hurts,grunge,grunge,2
+Amazing,hard-rock,hard-rock,2
+Love Runs Out,piano,piano,2
+Eden,trip-hop,trip-hop,2
+Dirty Work,psych-rock,psych-rock,1
+I Don't Care,emo,emo,2
+Maybellene,rockabilly,rockabilly,2
+Goodbye Milky Way,new-age,new-age,0
+Wuthering Heights,piano,piano,2
+About A Girl,"alt-rock, alternative, grunge",alt-rock,2
+No Good Deed,show-tunes,show-tunes,2
+Memories,goth,goth,2
+Heart Attack,latin,latin,1
+Love Yourself,pop,pop,1
+Wish,industrial,industrial,2
+Sober,metal,metal,2
+Merry Christmas Baby,"blues, blues, blues, blues, blues, blues, soul, soul, soul, soul, soul, soul",soul,2
+Take Me I'm Yours,"power-pop, synth-pop",power-pop,0
+Hot Stuff,disco,disco,0
+The Longest Time,piano,piano,2
+You Know How We Do It,funk,funk,1
+Voodoo Child (Slight Return),"blues, hard-rock, metal, psych-rock",blues,2
+Mamma Mia,swedish,swedish,2
+"Hey, Soul Sister",rock,rock,1
+Gimme All Your Lovin',"blues, hard-rock",blues,1
+Crazy,hard-rock,hard-rock,1
+"Tonight, Not Again",acoustic,acoustic,2
+Cloudbusting,piano,piano,2
+Feel Again,piano,piano,2
+Mr. Moustache,grunge,grunge,2
+Don't Go Breaking My Heart,piano,piano,2
+I Believe,opera,opera,0
+Bad Medicine,metal,metal,2
+I Kissed A Girl,dance,dance,2
+Girls Chase Boys,acoustic,acoustic,2
+Keep Breathing,acoustic,acoustic,2
+Just the Two of Us,jazz,jazz,2
+Detroit Rock City,"hard-rock, metal",hard-rock,2
+Voices,power-pop,power-pop,2
+Downer,grunge,grunge,2
+Set Fire to the Rain,british,british,2
+Hanginaround,"alt-rock, alternative, rock",alt-rock,2
+Diary of My Mind,honky-tonk,honky-tonk,2
+No Face No Name No Number,synth-pop,synth-pop,2
+I Want to Know What Love Is,hard-rock,hard-rock,2
+I Only Want To Be With You,british,british,1
+Santa Monica,grunge,grunge,2
+Run 2,synth-pop,synth-pop,1
+I'm Not The Only One,"dance, dance, pop, pop",dance,1
+I Saw The Light,honky-tonk,honky-tonk,2
+Garden,grunge,grunge,2
+Judas,dance,dance,2
+Photograph,hard-rock,hard-rock,1
+Drive,"alt-rock, funk, grunge, metal",funk,2
+Leah,rockabilly,rockabilly,2
+Figure.09,grunge,grunge,2
+What A Wonderful World,"jazz, jazz, jazz",jazz,2
+A Horse with No Name,"country, folk",folk,0
+Whenever You Need Somebody,synth-pop,synth-pop,1
+It's Alright,new-age,new-age,1
+White Christmas,soul,soul,0
+Wicked Game,goth,goth,1
+BURN IT DOWN,"alternative, grunge, metal",alternative,1
+Spending My Time,swedish,swedish,2
+Disciple,death-metal,death-metal,2
+Lust For Life,punk-rock,punk-rock,2
+Someone Else's Heart,power-pop,power-pop,0
+Burning Bridges,honky-tonk,honky-tonk,1
+Too Much Food,acoustic,acoustic,2
+I'm Tore Down,"acoustic, blues",acoustic,2
+Hello Mary Lou,country,country,2
+"Eh, Eh (Nothing Else I Can Say)",dance,dance,2
+Cold Shoulder,british,british,1
+Absolutely Zero,acoustic,acoustic,1
+For Whom The Bell Tolls,disco,disco,1
+the lonely,rock,rock,2
+Million Reasons,dance,dance,2
+My Friends,rock,rock,2
+Last Christmas,"disco, synth-pop",disco,1
+Only You,synth-pop,synth-pop,1
+Dreamer,"hard-rock, metal",hard-rock,2
+Hey!,synth-pop,synth-pop,2
+Tempted,"power-pop, synth-pop",power-pop,2
+Flux,"electro, indie-pop, indie",electro,2
+Dance Of Death,hard-rock,hard-rock,2
+Higher Love,edm,edm,0
+One Of These Things First,british,british,2
+Two Words,show-tunes,show-tunes,0
+Santa Baby,"electro, electro, electro, electro, electro, electro",electro,2
+I'd Come for You,grunge,grunge,1
+At Last,"blues, blues, jazz, jazz, soul, soul",soul,0
+All This Time,piano,piano,2
+Black,"alt-rock, grunge",alt-rock,2
+arms,rock,rock,2
+Just Breathe,grunge,grunge,2
+Lights,"edm, electro, indie-pop, indie",edm,2
+Cool for the Summer,dance,dance,2
+The Kids Aren't Alright,emo,emo,2
+Soldier of Fortune,"blues, hard-rock, psych-rock",blues,2
+Green Eyes,pop,pop,1
+Bad Romance,"dance, dance, dance",dance,2
+I'm So Tired Of It All,honky-tonk,honky-tonk,2
+Hello,disco,disco,1
+I'm a Believer,psych-rock,psych-rock,2
+Baby,pop,pop,2
+The First Time Ever I Saw Your Face,soul,soul,0
+Life is a Highway,country,country,1
+Far Away,"alt-rock, alternative, grunge, metal",alt-rock,1
+Earth Song,soul,soul,0
+Orchard Road,disco,disco,2
+Always,metal,metal,1
+Someday,"grunge, metal",metal,2
+Terrible Lie,industrial,industrial,2
+Have A Nice Day,metal,metal,2
+Place To Be,british,british,2
+If We Try,"folk, singer-songwriter, songwriter",folk,1
+You Win Again,honky-tonk,honky-tonk,1
+Amazing Grace,honky-tonk,honky-tonk,0
+Beneath Still Waters,honky-tonk,honky-tonk,0
+Stuck On You,disco,disco,2
+Someone Like You,"british, soul",british,1
+Drummer Boy,"pop, pop, pop",pop,2
+Everything For Christmas,"funk, soul",funk,0
+Learn to Fly,"alt-rock, grunge, metal",alt-rock,0
+Love Conquers All,psych-rock,psych-rock,2
+There's A Tear In My Beer,honky-tonk,honky-tonk,2
+Fa La La,pop,pop,1
+Missing You,bluegrass,bluegrass,2
+No More Sorrow,"grunge, metal",metal,2
+Poker Face,"dance, dance, dance, dance, dance, dance",dance,2
+I Can't Get You off My Mind,honky-tonk,honky-tonk,1
+From the Inside,grunge,grunge,2
+Don't Go,synth-pop,synth-pop,2
+If I Had You,rock,rock,2
+Local God,grunge,grunge,1
+If Everyone Cared,grunge,grunge,2
+LIES GREED MISERY,"grunge, metal",metal,1
+Rat Fink,hardcore,hardcore,2
+One Time,pop,pop,1
+What Hurts The Most,country,country,2
+I Ain't Gonna Love You Anymore,honky-tonk,honky-tonk,1
+No Stranger to Shame,country,country,2
+Animals,"alt-rock, alternative, grunge, metal",alt-rock,2
+More Than I Can Say,disco,disco,2
+Nightrain,hard-rock,hard-rock,2
+Alone,hard-rock,hard-rock,2
+One,"hard-rock, metal",hard-rock,2
+I've Been Loving You Too Long,"blues, soul",soul,1
+Waiting for the End,grunge,grunge,2
+Burn It to the Ground,"alt-rock, alternative, grunge, metal",alt-rock,0
+Bed Of Roses,metal,metal,2
+I Know,piano,piano,2
+I Want My Tears Back,"goth, opera",goth,0
+The Boys Of Summer,"singer-songwriter, songwriter",singer-songwriter,1
+Angel,hard-rock,hard-rock,2
+Rape Me,"alt-rock, grunge",alt-rock,0
+Unemployed Boyfriend,grunge,grunge,1
+American Idiot,punk,punk,0
+UNTIL IT BREAKS,grunge,grunge,1
+Crush,"malay, malay",malay,1
+21st Century Breakdown,punk,punk,2
+Sinnerman,"blues, jazz",jazz,0
+True,synth-pop,synth-pop,2
+Schism,"alt-rock, metal",alt-rock,2
+Today,trip-hop,trip-hop,0
+I Want It That Way,dance,dance,1
+Because the Night,punk-rock,punk-rock,0
+Stay Away,grunge,grunge,2
+Heart Of Gold,"singer-songwriter, songwriter",singer-songwriter,2
+Living After Midnight,hard-rock,hard-rock,2
+Over The Hill,"british, psych-rock",british,2
+Hurt (Quiet),industrial,industrial,2
+Don't Let The Sun Go Down On Me,piano,piano,2
+Icky Thump,"blues, garage, punk-rock, punk",garage,2
+I'll Be a Bachelor 'Til I Die,honky-tonk,honky-tonk,2
+Amarillo By Morning,country,country,2
+And I Love You So,"j-pop, jazz",j-pop,2
+"This Ain't A Scene, It's An Arms Race",emo,emo,2
+Breathe,country,country,2
+Ordinary Human,piano,piano,2
+Driving Home for Christmas,blues,blues,2
+I Put A Spell On You,"blues, blues, blues, jazz, jazz, jazz, soul, soul, soul, soul",soul,1
+Invisible Love,new-age,new-age,0
+Endless Love,disco,disco,1
+I'm Coming Out,"disco, disco, soul, soul",disco,2
+Third Day Of A Seven Day Binge,industrial,industrial,2
+Disposable Teens,industrial,industrial,1
+Criminal,piano,piano,2
+Forever,hard-rock,hard-rock,2
+Nobody Home,psych-rock,psych-rock,2
+Worth It,dance,dance,1
+Lounge Act,grunge,grunge,2
+Savin' Me,"grunge, metal",metal,2
+Pour Some Sugar On Me,hard-rock,hard-rock,0
+All The Right Moves,piano,piano,0
+Voulez-Vous,swedish,swedish,1
+Valentine's Day,grunge,grunge,0
+I Won't Give Up,acoustic,acoustic,2
+The Hills,pop,pop,1
+Lonely Soul,trip-hop,trip-hop,0
+Beautiful Monster,dance,dance,2
+A Mansion on the Hill,honky-tonk,honky-tonk,1
+What I've Done,grunge,grunge,2
+Perfect Strangers,"blues, hard-rock, metal, psych-rock",blues,0
+Jet Airliner,synth-pop,synth-pop,2
+"Hey, Good Lookin'",honky-tonk,honky-tonk,2
+Papa Gene's Blues,psych-rock,psych-rock,2
+"On Love, in Sadness",acoustic,acoustic,2
+Times Like These,grunge,grunge,0
+Good Life,"piano, rock",piano,2
+Don't Be Cruel,rockabilly,rockabilly,1
+Poison,"hard-rock, metal",hard-rock,1
+I'm Satisfied With You,honky-tonk,honky-tonk,1
+El Scorcho,power-pop,power-pop,1
+Mama Said Knock You Out,hardcore,hardcore,2
+Family Bible,honky-tonk,honky-tonk,0
+A Great Big Sled,"alt-rock, alt-rock, alternative, alternative, dance, dance, rock, rock",dance,2
+Sweet Home Alabama,"blues, country, hard-rock",country,0
+I Am Mine,grunge,grunge,0
+If It Kills Me,"acoustic, rock",acoustic,2
+Hey Joe,"blues, hard-rock, metal, psych-rock",blues,2
+Negative Creep,grunge,grunge,2
+Meet Me under the Mistletoe,"country, country, country, gospel, gospel, gospel",gospel,2
+Mama Said,hard-rock,hard-rock,2
+The Same Parents,new-age,new-age,2
+I'll Be Waiting,british,british,2
+Alison,power-pop,power-pop,1
+Dancing In the Dark,"singer-songwriter, songwriter",singer-songwriter,2
+Ain't Your Mama,dance,dance,2
+Mr. Self Destruct,industrial,industrial,1
+Scar Tissue,"alt-rock, alternative, funk, metal",funk,2
+Easier to Run,grunge,grunge,2
+It Will Rain,"dance, dance, pop",dance,2
+Cheek To Cheek,"blues, jazz",jazz,2
+I Talk To The Wind,"j-rock, psych-rock",j-rock,2
+I Won't Be Home No More,honky-tonk,honky-tonk,2
+Keep on Loving You,hard-rock,hard-rock,2
+Where Did You Sleep Last Night,"alt-rock, grunge",alt-rock,0
+Immortals,emo,emo,2
+Dream Police,power-pop,power-pop,0
+On A Plain,grunge,grunge,2
+Rockin' Chair Money,honky-tonk,honky-tonk,0
+Territorial Pissings,grunge,grunge,0
+Running To The Edge Of The World,industrial,industrial,0
+If,psych-rock,psych-rock,2
+You Never Let Go,world-music,world-music,2
+Northern Sky,british,british,2
+I Can't Stop Loving You,"blues, piano",piano,0
+What I Got,ska,ska,2
+Brother to the Blues,honky-tonk,honky-tonk,1
+Every Day Is Exactly The Same,industrial,industrial,2
+Power,dance,dance,2
+On My Mind,indie-pop,indie-pop,2
+California Blue,rockabilly,rockabilly,2
+Streets of Where I'm From,power-pop,power-pop,2
+Help!,"british, psych-rock",british,2
+Heirate mich,industrial,industrial,2
+Come Back,grunge,grunge,2
+Daydream Believer,psych-rock,psych-rock,0
+Why Not Me?,latin,latin,1
+The Truth Beneath The Rose,goth,goth,2
+Keep Talking,psych-rock,psych-rock,2
+Rope,grunge,grunge,2
+Rotten Apple,grunge,grunge,2
+All I Need,"goth, metal",goth,2
+Plush,"grunge, hard-rock",hard-rock,2
+Cheap Thrills,"dance, pop",dance,2
+In Between,grunge,grunge,2
+Piggy,industrial,industrial,2
+Passing By,trip-hop,trip-hop,2
+Jar of Hearts,rock,rock,1
+The Wonderful Cross,world-music,world-music,0
+You've Got Another Thing Coming,hard-rock,hard-rock,1
+Endless Love,disco,disco,1
+A Long December,"alt-rock, alt-rock, alt-rock, alt-rock, alternative, alternative, alternative, alternative, rock, rock, rock, rock",alt-rock,1
+My Heart Bleeds No Longer,death-metal,death-metal,2
+Just Dance,"dance, dance",dance,2
+One Step Closer,grunge,grunge,2
+This Afternoon,grunge,grunge,2
+Sad But True,"hard-rock, metal",hard-rock,2
+Missing You,bluegrass,bluegrass,2
+I Drove All Night,"rock-n-roll, rockabilly",rock-n-roll,1
+I Think I'm Going To Kill Myself,piano,piano,2
+Please Don't Let Me Love You,honky-tonk,honky-tonk,1
+I Won't Let Go,country,country,1
+Everybody,acoustic,acoustic,0
+Hole In My Soul,hard-rock,hard-rock,2
+I Lived,"piano, rock",piano,2
+This Glorious Nightmare,"death-metal, metalcore",metalcore,0
+Bless The Broken Road,country,country,2
+I'll Be There For You,metal,metal,1
+Everybody Loves Somebody,jazz,jazz,0
+Red House,psych-rock,psych-rock,0
+Bad Moon Rising,country,country,2
+Waiting for a Girl Like You,"hard-rock, rock",rock,2
+I'm Every Woman,disco,disco,2
+Since I Don't Have You,"hard-rock, metal",hard-rock,2
+Serve The Servants,grunge,grunge,2
+I'm Not Angry,power-pop,power-pop,2
+Watch Me Bleed,synth-pop,synth-pop,2
+Falling Away from Me,metal,metal,0
+Heartbeat,latin,latin,2
+Hurt,country,country,2
+Waterloo,swedish,swedish,2
+Defying Gravity,show-tunes,show-tunes,1
+I'll Never Get Out Of This World Alive,honky-tonk,honky-tonk,2
+Photograph,"grunge, metal",metal,2
+Book Of Saturday,psych-rock,psych-rock,2
+Estranged,"hard-rock, metal",hard-rock,1
+Those Sweet Words,"j-pop, jazz",j-pop,1
+Are You Gonna Go My Way,rock,rock,2
+When They Come for Me,grunge,grunge,2
+Weird Science,"synth-pop, synth-pop, synth-pop",synth-pop,2
+Great Big White World,industrial,industrial,0
+Can't Fight This Feeling,hard-rock,hard-rock,2
+I Like It,latin,latin,1
+Congratulations,rock-n-roll,rock-n-roll,2
+Lateralus,metal,metal,0
+Waiting for a Girl like You,hard-rock,hard-rock,2
+Midnight Rider,"blues, hard-rock, j-rock",j-rock,2
+Dangerous,"dance, edm, pop",edm,2
+Hot Blooded,"hard-rock, rock",rock,1
+With You,"grunge, metal",metal,2
+You Raise Me Up,opera,opera,2
+No 1 Hit Medley,synth-pop,synth-pop,1
+Blue Wonder Power Milk,trip-hop,trip-hop,0
+Easy,hard-rock,hard-rock,2
+Domino Dancing,synth-pop,synth-pop,1
+Turning Tables,"british, soul",british,1
+Hello Hello,piano,piano,0
+Trying Not to Love You,grunge,grunge,1
+Stoneface,grunge,grunge,2
+Mutter,industrial,industrial,2
+Crawling,grunge,grunge,2
+Writing On The Walls,metalcore,metalcore,2
+Knockin' On Heaven's Door,"hard-rock, metal, rock",rock,0
+Superlove,"rock, rock",rock,2
+My Girl,"funk, soul",funk,2
+Advice For The Young At Heart,synth-pop,synth-pop,0
+Cars,synth-pop,synth-pop,1
+Town Called Malice,"punk-rock, punk, ska",ska,0
+Fernando,swedish,swedish,2
+Once,grunge,grunge,2
+Nothing Is Impossible,world-music,world-music,2
+Flowers In December,"alt-rock, alternative",alt-rock,2
+Teeth,dance,dance,0
+Sliver,grunge,grunge,2
+Pink,hard-rock,hard-rock,2
+Running on Empty,piano,piano,2
+How Do I Live,country,country,1
+Closure,death-metal,death-metal,0
+No Excuses,grunge,grunge,1
+Hurt,industrial,industrial,2
+Creep,grunge,grunge,2
+Release,grunge,grunge,2
+Big Bang Baby,grunge,grunge,0
+It Just Don't Matter Now,honky-tonk,honky-tonk,2
+Storytime,"goth, opera",goth,0
+True Faith,synth-pop,synth-pop,2
+Howlin' At The Moon,honky-tonk,honky-tonk,2
+And I Love You So,"rock-n-roll, rockabilly",rock-n-roll,2
+Lithium,"alt-rock, alternative, grunge",alt-rock,2
+Breaking the Habit,"alternative, grunge, metal",alternative,2
+Million Years Ago,"british, soul",british,2
+Copy Of A,industrial,industrial,2
+Floyd The Barber,grunge,grunge,2
+Counting Stars,"piano, piano, piano, rock, rock, rock",piano,2
+Freak On a Leash,metal,metal,0
+A Good Year for the Roses,honky-tonk,honky-tonk,1
+Sundown And Sorrow,honky-tonk,honky-tonk,2
+All Apologies,grunge,grunge,2
+Keys to the Kingdom,grunge,grunge,1
+Going Under,metal,metal,2
+I Feel Love,disco,disco,0
+Why Can't This Be Love,hard-rock,hard-rock,2
+Big in Japan,synth-pop,synth-pop,0
+Rock the Night,"hard-rock, swedish",swedish,2
+Green Green Grass Of Home,british,british,0
+Under The Same Sun,"german, hard-rock, metal",german,0
+Bizarre Love Triangle,synth-pop,synth-pop,2
+What You Wanted,piano,piano,2
+I Want to Thank You,"blues, soul",soul,1
+Won't Stop,piano,piano,2
+Living in the Moment,acoustic,acoustic,2
+Love Me Now,soul,soul,2
+In the Middle of the Night,goth,goth,2
+I Stay Away,grunge,grunge,2
+If I Didn't Love You,"power-pop, synth-pop",power-pop,2
+Carrie,"hard-rock, metal, swedish",swedish,0
+Wonderful World,"blues, soul",soul,2
+No Roads Left,grunge,grunge,2
+Here I Go Again,british,british,2
+Long Drive,acoustic,acoustic,1
+Numb,"alternative, grunge, metal",alternative,1
+Baby We're Really In Love,honky-tonk,honky-tonk,1
+Oh Me,grunge,grunge,2
+Hounds Of Love,piano,piano,2
+Ain't Nobody,disco,disco,2
+I Put A Spell On You,"country, country, rock",country,1
+Beyond The Invisible,new-age,new-age,2
+Valentine,power-pop,power-pop,0
+Always On My Mind,"rock-n-roll, rockabilly",rock-n-roll,2
+Take a Chance On Me,synth-pop,synth-pop,1
+Secret Agent Man,synth-pop,synth-pop,2
+Sweet Emotion,hard-rock,hard-rock,2
+Learning to Fly,psych-rock,psych-rock,0
+On Top Of The World,rock,rock,2
+LOST IN THE ECHO,"alternative, grunge, metal",alternative,2
+Yule Shoot Your Eye Out,"emo, emo, emo, rock, rock, rock",emo,1
+Freedom,synth-pop,synth-pop,1
+Is This Love,british,british,2
+Hit the Floor,metal,metal,1
+Honky Tonk Blues,honky-tonk,honky-tonk,2
+Outrageous,synth-pop,synth-pop,2
+Apologize,"piano, rock",piano,1
+Laughter In The Rain,rockabilly,rockabilly,2
+Busted,honky-tonk,honky-tonk,2
+Super Trouper,swedish,swedish,2
+Once Again,world-music,world-music,2
+Am I Losing Your Memory Or Mine?,honky-tonk,honky-tonk,2
+Paparazzi,dance,dance,1
+Cheri Cheri Lady,synth-pop,synth-pop,2
+Vicarious,metal,metal,0
+You Want It Darker,"singer-songwriter, songwriter",singer-songwriter,1
+Forever and One (Neverland),hard-rock,hard-rock,2
+Dreaming in Columbia,"death-metal, groove",groove,2
+What Have I Done to Deserve This?,synth-pop,synth-pop,2
+In Love With You,"cantopop, mandopop",cantopop,1
+Mad World,synth-pop,synth-pop,0
+Head Over Heels,synth-pop,synth-pop,2
+Runaway,"grunge, metal",metal,2
+I Put A Spell On You,"alt-rock, alternative, industrial, metal",industrial,1
+Never Gonna Be Alone,"grunge, metal",metal,2
+Fool About You,honky-tonk,honky-tonk,2
+Fever,electro,electro,1
+Still Loving You,"german, hard-rock, metal",german,2
+Crocodile Rock,piano,piano,0
+Truly,disco,disco,1
+So Good to See You,power-pop,power-pop,1
+I'm Going Home,honky-tonk,honky-tonk,2
+Pull Me Under,"classical, metal",classical,0
+Don't Cry Daddy,"rock-n-roll, rockabilly",rock-n-roll,0
+Shot in the Dark,goth,goth,2
+Mansion On The Hill,honky-tonk,honky-tonk,1
+Monkey Wrench,grunge,grunge,2
+Babe,hard-rock,hard-rock,2
+I'm Yours,acoustic,acoustic,2
+Ave Maria,soul,soul,2
+Love The Way You Lie,hip-hop,hip-hop,1
+Don't You Remember,"british, soul",british,1
+How to Disappear Completely,alt-rock,alt-rock,2
+A Girl I Used To Know,honky-tonk,honky-tonk,2
+Home,trip-hop,trip-hop,0
+Black Gives Way To Blue,grunge,grunge,0
+One Last Time,dance,dance,2
+Melt My Heart To Stone,british,british,2
+The Great Below,industrial,industrial,0
+A Lifetime to Regret,"honky-tonk, honky-tonk",honky-tonk,2
+Yesterdays,hard-rock,hard-rock,2
+Enter Sandman,"hard-rock, metal, rock",rock,0
+Make It Wit Chu,blues,blues,2
+Peppermint Winter,"indie-pop, indie-pop, indie-pop, indie-pop, indie, indie, indie, indie, rock, rock, rock, rock",indie-pop,2
+Falling to Pieces,"hard-rock, metal",hard-rock,2
+Ai No Corrida,"disco, funk, soul",funk,1
+New York State of Mind,piano,piano,2
+Lay All Your Love On Me,swedish,swedish,2
+Beverly Hills,power-pop,power-pop,2
+Time,psych-rock,psych-rock,2
+Just A Notion,swedish,swedish,1
+Black Coffee In Bed,power-pop,power-pop,2
+Breaking the Law,"hard-rock, metal",hard-rock,1
+Everlong,"alt-rock, alternative, grunge, metal",alt-rock,2
+Beyond The Sunset,honky-tonk,honky-tonk,2
+St. Anger,hard-rock,hard-rock,2
+These Days,grunge,grunge,0
+What's Love Got to Do with It,disco,disco,2
+It's Time,rock,rock,2
+Cryin',hard-rock,hard-rock,1
+You Make Me Feel Like Dancing,disco,disco,2
+Don't Get Around Much Anymore,honky-tonk,honky-tonk,1
+Give It Away,metal,metal,1
+Push,rock,rock,2
+The Perfect Drug,industrial,industrial,1
+Dark Skies,bluegrass,bluegrass,2
+Lying from You,grunge,grunge,2
+It's a Sin,synth-pop,synth-pop,2
+My Sweet Love Ain't Around,honky-tonk,honky-tonk,2
+Don't Follow,grunge,grunge,2
+Born This Way,dance,dance,2
+Crazy Train,"hard-rock, metal",hard-rock,2
+I Have A Dream,swedish,swedish,2
+Take It All,british,british,1
+Lucky,acoustic,acoustic,2
+Burning in the Skies,"grunge, metal",metal,2
+Go With The Flow,"blues, metal",blues,2
+No One Knows,"blues, metal, r-n-b",r-n-b,2
+Radioactive,rock,rock,2
+How You Remind Me,"alt-rock, alternative, grunge, metal",alt-rock,2
+Fortunate Son,"country, rock",country,0
+"Baby, It's Cold Outside","jazz, jazz",jazz,2
+Big Me,grunge,grunge,2
+Locked out of Heaven,dance,dance,0
+Once I Was,psych-rock,psych-rock,2
+Come As You Are,"alt-rock, alternative, grunge, rock",alt-rock,1
+"Sugar, We're Goin Down",emo,emo,1
+"Hello, Dolly!",jazz,jazz,0
+VICTIMIZED,grunge,grunge,1
+If I Lose Myself,piano,piano,0
+Hometown Glory,british,british,2
+Alone,disco,disco,2
+Story of My Life,pop,pop,2
+Kids In America,disco,disco,0
+Love Hurts,"blues, hard-rock, metal",blues,2
+Pull the Plug,death-metal,death-metal,0
+Purple Haze,"blues, hard-rock, metal, psych-rock",blues,2
+Creep,"alt-rock, alternative, indie, rock",indie,2
+Walk,"grunge, metal",metal,1
+Can't Stop,"alt-rock, alternative, funk, metal",funk,1
+The World Is Mine,trip-hop,trip-hop,0
+Remedy,"british, soul",british,1
+And So It Goes,piano,piano,1
+Don't Know Why,"j-pop, jazz",j-pop,2
+Mistletoe,"pop, pop, pop, pop, pop, pop, pop, pop, pop, pop, pop, pop, pop, pop, pop, pop, pop, pop, pop, pop",pop,2
+Make You Feel My Love,soul,soul,2
+No One Like You,hard-rock,hard-rock,1
+Lovely Day,"funk, soul",funk,0
+Coming Back to Life,psych-rock,psych-rock,0
+Abracadabra,"blues, country, folk, psych-rock, singer-songwriter, songwriter",folk,2
+Feeling Good,"blues, jazz, soul",soul,1
+Lonely Day,"alternative, metal",alternative,1
+My December,metal,metal,2
+Born To Die,pop,pop,2
+Let's Have A Party,rockabilly,rockabilly,0
+Love Came Down,world-music,world-music,2
+Money,psych-rock,psych-rock,0
+Love In The Dark,"british, soul",british,2
+Rockstar,"alt-rock, alternative, grunge, metal",alt-rock,2
+Paradise City,"hard-rock, metal, rock",rock,2
+Lovesong,british,british,1
+Little Drummer Boy,country,country,0
+Hear My Train a Comin',psych-rock,psych-rock,2
+Patience,hard-rock,hard-rock,2
+Water Under the Bridge,"british, soul",british,1
+Rising Force,guitar,guitar,0
+The One That Got Away,dance,dance,1
+Burning Love,"rock-n-roll, rockabilly",rock-n-roll,2
+The Mephistopheles Of Los Angeles,industrial,industrial,2
+Thank You For The Music,swedish,swedish,2
+You Lied,hardcore,hardcore,2
+Pork And Beans,power-pop,power-pop,2
+Heart-Shaped Box,"alt-rock, alternative, grunge",alt-rock,2
+Massachusetts,disco,disco,2
+Hash Pipe,power-pop,power-pop,2
+Mea Culpa,new-age,new-age,2
+It's So Easy,hard-rock,hard-rock,2
+ATWA,metal,metal,2
+Bone Dry,honky-tonk,honky-tonk,2
+Why We Thugs,funk,funk,2
+Wake Me Up Before You Go-Go,"disco, synth-pop",disco,1
+Honesty,piano,piano,2
+Given Up,grunge,grunge,2
+I'm Gonna Sing,honky-tonk,honky-tonk,2
+Settin' The Woods On Fire,honky-tonk,honky-tonk,2
+No Particular Place To Go,"rock-n-roll, rockabilly",rock-n-roll,2
+Nobody's Fool,hard-rock,hard-rock,2
+Bring Me To Life,"alternative, alternative, alternative, alternative, alternative, alternative, metal, metal, metal, metal, metal, metal",alternative,2
+New Divide,grunge,grunge,0
+Faster,goth,goth,2
+Sleeping Sun,"goth, opera",goth,0
+Lifetime To Regret,honky-tonk,honky-tonk,2
+You May Be Right,piano,piano,1
+"Knowing Me, Knowing You",swedish,swedish,0
+Brain Stew,punk,punk,0
+Santeria,ska,ska,2
+Sorry,pop,pop,2
+Marchin On,piano,piano,0
+I Want To Break Free,rock,rock,2
+A Good Year For The Roses,"honky-tonk, honky-tonk",honky-tonk,1
+Fireflies,"indie-pop, indie-pop, indie, indie, rock, rock",indie-pop,2
+Amon Belongs to Them,death-metal,death-metal,2
+Only,industrial,industrial,2
+Always on My Mind,synth-pop,synth-pop,2
+Good Feeling,acoustic,acoustic,0
+If I Never See You Again,r-n-b,r-n-b,1
+I Want To Hold Your Hand,"british, psych-rock",british,2
+American Woman,"rock, rock",rock,2
+Ghost,dance,dance,0
+Hey Mama,edm,edm,2
+Christmas Without You,piano,piano,2
+River Lea,british,british,2
+The Antichrist,death-metal,death-metal,2
+Fell On Black Days,"grunge, hard-rock",hard-rock,2
+In My Time of Need,"death-metal, metal",death-metal,0
+March Of The Pigs,industrial,industrial,2
+All You Need,ska,ska,2
+Something In The Way,"alt-rock, alternative, grunge, rock",alt-rock,0
+Bloody Mary,dance,dance,2
+Big Fool Of The Year,honky-tonk,honky-tonk,2
+Hallelujah,"folk, singer-songwriter, songwriter",folk,2
+Chasing Pavements,soul,soul,2
+Reflection,show-tunes,show-tunes,2
+UP,house,house,2
+Against The Wind,hard-rock,hard-rock,2
+Boulevard of Broken Dreams,punk,punk,2
+Fuel,"hard-rock, metal",hard-rock,0
+Animal,hard-rock,hard-rock,2
+"Endless, Nameless",grunge,grunge,2
+Don't Shoot Me Santa,"alt-rock, alt-rock, alt-rock, alt-rock, alt-rock, alt-rock, alternative, alternative, alternative, alternative, alternative, alternative, dance, dance, dance, dance, dance, dance, rock, rock, rock, rock, rock, rock",dance,2
+Let It Die,"edm, electro, indie-pop, indie",edm,0
+I Miss You,british,british,1
+Nothing Else Matters,"hard-rock, metal, rock",rock,0
+Bloodline,death-metal,death-metal,0
+We Didn't Start the Fire,piano,piano,0
+Come Away With Me,"j-pop, jazz",j-pop,0
+A Hard Act to Follow,honky-tonk,honky-tonk,2
+Destiny,trip-hop,trip-hop,2
+I'll Do Anything,acoustic,acoustic,1
+Funnel Of Love,"rock-n-roll, rockabilly",rock-n-roll,2
+Paranoid,"hard-rock, metal",hard-rock,2
+Best of Things,hardcore,hardcore,1
+Rough Boy,"blues, country, hard-rock, rock",country,2
+Why I Don't Believe In God,grunge,grunge,2
+The Man Who Sold The World,"alt-rock, alternative, grunge",alt-rock,2
+Black or White,soul,soul,2
+Last Time Forever,power-pop,power-pop,2
+The Flame,"hard-rock, power-pop",power-pop,1
+Hymn for the Weekend,pop,pop,2
+The Lucky One,country,country,2
+Going Down,blues,blues,2
+Only the Lonely,"rock-n-roll, rockabilly",rock-n-roll,0
+Even the Bad Times Are Good,honky-tonk,honky-tonk,1
+Sugar,metal,metal,2
+Don't Stay,"grunge, metal",metal,2
+Cheek To Cheek,"blues, blues, blues, jazz, jazz, jazz, jazz",jazz,2
+The Wedding Dream,death-metal,death-metal,2
+"Mama, I'm Coming Home","hard-rock, metal",hard-rock,2
+Still Breathing,punk,punk,2
+By Myself,grunge,grunge,2
+All My Life,grunge,grunge,2
+Princess of the Possee,new-age,new-age,2
+My Bucket's Got A Hole In It,honky-tonk,honky-tonk,2
+Time in a Bottle,"country, folk, singer-songwriter, songwriter",folk,2
+Maggie May,rock,rock,2
+It's Not Unusual,british,british,1
+Somebody Told Me,"alt-rock, alternative, dance",dance,2
+Basket Case,punk,punk,2
+In the End,grunge,grunge,2
+Cold Cold Heart,honky-tonk,honky-tonk,1
+Coming Undone,metal,metal,2
+I'm A Long Gone Daddy,honky-tonk,honky-tonk,2
+Christmas Time's A-Coming,"country, country, folk, folk, singer-songwriter, singer-songwriter, songwriter, songwriter",folk,0
+Uma Thurman,emo,emo,0
+In Dreams,"rock-n-roll, rockabilly",rock-n-roll,2
+Round and Round,synth-pop,synth-pop,2
+The Boy's Gone,acoustic,acoustic,0
+Christmas Lights,"pop, pop, pop",pop,0
+Satellite of Love,psych-rock,psych-rock,2
+Shadows In Silence,new-age,new-age,2
+Ain't No Use,"blues, jazz, soul",soul,2
+I'LL BE GONE,"grunge, metal",metal,2
+Fast Car,"folk, singer-songwriter, songwriter",folk,2
+Rock Of Ages,hard-rock,hard-rock,0
+Please Make Up Your Mind,honky-tonk,honky-tonk,1
+Ramblin' Man,honky-tonk,honky-tonk,2
+Pardon Me,grunge,grunge,2
+Only Thing I Ever Get For Christmas,pop,pop,2
+Don't Let Me Be Misunderstood,"blues, jazz",jazz,2
+X,hardcore,hardcore,1
+The Woman I Love,acoustic,acoustic,1
+Rock'n Me,psych-rock,psych-rock,2
+I'm Your Man,"disco, synth-pop",disco,1
+I Feel for You,"disco, funk, soul",funk,1
+In the Midnight Hour,rock-n-roll,rock-n-roll,0
+I'll Fly for You,synth-pop,synth-pop,1
+Rocket Queen,hard-rock,hard-rock,1
+April In Paris,"blues, jazz",jazz,0
+Anna Molly,grunge,grunge,0
+Bridge Over Troubled Water,"rock-n-roll, rockabilly",rock-n-roll,2
+A Thousand Years,"dance, pop, rock",dance,2
+Play With Me,hard-rock,hard-rock,0
+My Heart Would Know,honky-tonk,honky-tonk,2
+Jesus of Suburbia,punk,punk,2
+Ride,rock,rock,2
+Fly Away,rock,rock,2
+Mr. Jones,"alt-rock, alternative, alternative, rock, rock",alt-rock,4
+Faint,"alternative, grunge, metal",alternative,2
+Hosanna,alt-rock,alt-rock,0
+The Day I Tried To Live,grunge,grunge,2
+Nemo,"goth, opera",goth,0
+Alone Together,emo,emo,2
+Stand My Ground,goth,goth,2
+Talking to the Moon,"dance, pop",dance,2
+So Sick,dance,dance,2
+Gotta Be Somebody,grunge,grunge,0
+Only One,punk,punk,2
+The Edge of Heaven,synth-pop,synth-pop,1
+You and I Both,acoustic,acoustic,1
+Everybody Loves Me,piano,piano,1
+I'll Be Seeing You,"blues, jazz",jazz,2
+Listen To Your Heart,swedish,swedish,1
+It's My Life,"metal, rock",rock,2
+Summertime Sadness,pop,pop,2
+Knocks Me Off My Feet,"funk, indie",indie,2
+The Nobodies,industrial,industrial,2
+The Winner Takes It All,swedish,swedish,2
+Don't Let Me Cross Over,honky-tonk,honky-tonk,2
+Blow Up The Outside World,grunge,grunge,2
+San Tropez,psych-rock,psych-rock,0
+I Saw the Light,honky-tonk,honky-tonk,2
+"Forever and Ever, Amen","country, gospel",gospel,2
+Someday You'll Call My Name,honky-tonk,honky-tonk,1
+The Man Who Can't Be Moved,rock,rock,1
+King of All the World,power-pop,power-pop,2
+A Sunday Kind Of Love,"blues, jazz",jazz,2
+Ocean Avenue,punk,punk,2
+Steady My Heart,world-music,world-music,1
+Secrets,"piano, rock",piano,2
+Lilac Wine,soul,soul,2
+Wherever I May Roam,"hard-rock, metal",hard-rock,2
+By the Way,"alt-rock, alternative, funk, metal, rock",funk,2
+CASTLE OF GLASS,"alternative, grunge, metal",alternative,0
+Crazy For You,british,british,1
+One And Only,british,british,2
+I Love It Loud,hard-rock,hard-rock,2
+Ain't That Love,"blues, jazz, piano, soul",piano,1
+Curbside Prophet,acoustic,acoustic,2
+Ode to Solitude,goth,goth,1
+Choices,honky-tonk,honky-tonk,2
+Figured You Out,grunge,grunge,1

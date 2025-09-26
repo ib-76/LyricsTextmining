@@ -1,0 +1,94 @@
+name,genre,cleanGenre,kmeans_label
+Piano Man,"folk, piano, singer-songwriter, songwriter",folk,3
+Nature Boy,jazz,jazz,3
+Hands Held High,grunge,grunge,3
+Little Paper Boy,honky-tonk,honky-tonk,3
+I Just Threw Out The Love Of My Dreams,power-pop,power-pop,3
+Us and Them,psych-rock,psych-rock,3
+Only A Fool Would Say That,psych-rock,psych-rock,3
+Daniel,piano,piano,3
+I'm So Lonesome I Could Cry,honky-tonk,honky-tonk,3
+Monster,"dance, dance, dance, dance",dance,3
+Tom Sawyer,"hard-rock, metal",hard-rock,3
+I've Been Down That Road Before,honky-tonk,honky-tonk,3
+Here Comes Santa Claus,jazz,jazz,3
+Even Flow,"alt-rock, grunge",alt-rock,3
+Year Of The Knife,synth-pop,synth-pop,3
+When God Comes And Gathers His Jewels,honky-tonk,honky-tonk,3
+Southern Nights,"folk, singer-songwriter, songwriter",folk,3
+O Holy Night,"alt-rock, alternative, power-pop, rock",power-pop,3
+Frosty The Snowman,"blues, jazz",jazz,3
+On the Run,bluegrass,bluegrass,3
+My Name Is Jonas,"alt-rock, alternative, power-pop, rock",power-pop,3
+Rasputin,disco,disco,3
+Fly Trouble,honky-tonk,honky-tonk,3
+Bark at the Moon,hard-rock,hard-rock,3
+Across the Line,grunge,grunge,3
+Winter Wonderland,rock,rock,3
+Sleep All Day,acoustic,acoustic,3
+How Can You Refuse Him Now,honky-tonk,honky-tonk,3
+God's Gonna Get 'Cha (For That),honky-tonk,honky-tonk,3
+Human Nature,soul,soul,3
+Superheroes,rock,rock,3
+Making Plans For Nigel,power-pop,power-pop,3
+Take The Money And Run,psych-rock,psych-rock,3
+Santa Claus Is Coming To Town,"folk, singer-songwriter, songwriter",folk,3
+Cool Water,honky-tonk,honky-tonk,3
+Like I Can,"dance, pop",dance,3
+Arnold Layne,psych-rock,psych-rock,3
+Painkiller,death-metal,death-metal,3
+The Unforgiven II,"hard-rock, metal",hard-rock,3
+All I Wanna Do Is Make Love To You,hard-rock,hard-rock,3
+Zanzibar,piano,piano,3
+Jesus Died For Me,honky-tonk,honky-tonk,3
+I'm On Fire,"singer-songwriter, songwriter",singer-songwriter,3
+Karma Police,"alt-rock, alternative",alt-rock,3
+Bold as Love,psych-rock,psych-rock,3
+What I Must Do,synth-pop,synth-pop,3
+Wildest Dreams,pop,pop,3
+Criminal,dance,dance,3
+My Hero,"grunge, metal",metal,3
+A Demon's Fate,goth,goth,3
+Cool Yule,jazz,jazz,3
+Paper Bag,piano,piano,3
+The Life,country,country,3
+The Unforgiven III,"hard-rock, metal",hard-rock,3
+In Bloom,"alt-rock, grunge",alt-rock,3
+Everything's Okay,honky-tonk,honky-tonk,3
+A Place In the Country,honky-tonk,honky-tonk,3
+The Man with the Child in His Eyes,"piano, rock, singer-songwriter, songwriter",singer-songwriter,3
+Sultans Of Swing,rock,rock,3
+The Temple Of The King,"blues, hard-rock",blues,3
+Wearing the Inside Out,psych-rock,psych-rock,3
+A Drunk Can't Be a Man,honky-tonk,honky-tonk,3
+Angie's Heart,synth-pop,synth-pop,3
+Cats In The Cradle,"hard-rock, metal",hard-rock,3
+Painkiller,"hard-rock, metal",hard-rock,3
+In the Flesh,psych-rock,psych-rock,3
+When You Were Young,alt-rock,alt-rock,3
+Roly Poly,honky-tonk,honky-tonk,3
+Given to Fly,grunge,grunge,3
+In the Flesh?,psych-rock,psych-rock,3
+Castles Made of Sand,"blues, psych-rock",blues,3
+Alive,"alt-rock, grunge",alt-rock,3
+Johnny B. Goode,"blues, r-n-b, rock-n-roll, rockabilly",r-n-b,3
+Happy New Year,swedish,swedish,3
+He Won't Go,british,british,3
+Eleanor Rigby,"british, psych-rock",british,3
+The Passenger,"punk-rock, punk",punk-rock,3
+Jesus Remembered Me,honky-tonk,honky-tonk,3
+Santa Claus Is Comin' To Town,dance,dance,3
+A Day In The Life,psych-rock,psych-rock,3
+Awesome God,world-music,world-music,3
+Army Dreamers,"piano, r-n-b, rock, singer-songwriter, songwriter",r-n-b,3
+Blowin' in the Wind,"country, folk, singer-songwriter, songwriter",folk,3
+Winter Wonderland,"jazz, jazz, jazz, jazz, jazz, jazz, jazz, jazz, jazz, jazz, jazz, jazz, jazz",jazz,3
+Angel With The Scabbed Wings,industrial,industrial,3
+Young Lust,psych-rock,psych-rock,3
+Daydreamer,british,british,3
+Scentless Apprentice,grunge,grunge,3
+Thnks fr th Mmrs,"emo, rock",emo,3
+Born in the U.S.A.,"singer-songwriter, songwriter",singer-songwriter,3
+War at Home,opera,opera,3
+Little Palaces,power-pop,power-pop,3
+Stargazer,"blues, hard-rock",blues,3
