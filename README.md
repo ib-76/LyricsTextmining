@@ -13,7 +13,7 @@ Part1_Crawling.ipynb connects to the website, crawls the songs, and saves them i
 That CSV can be generated either from the Docker container or directly from Jupyter.<br>
 The CSV should then be imported into an SQL database called TextMiningHa, which contains a single table named songs. A backup of this database is also included in the PyCharm project.<br><br>
 Note:All functions in the Jupyter notebooks pull their data from this database. If you want the notebooks to run on your local machine, you will need to update the string stored into ./Sql_DB\db_config.txt accordingly
-Just change the credential SERVER=IVAN_PC\SQLEXPRESS to match the SQL server on your local machine..<br> 
+Just change the credential SERVER=IVAN_PC\SQLEXPRESS to match the SQL server on your local machine.<br>A backup of this SQLDb is also included incase in need to import it in your local machine.   
 <br><br>
 Part2_PreProcessing.ipynb handles preprocessing tasks, including text cleaning and feature analysis. <br>
 <br>
